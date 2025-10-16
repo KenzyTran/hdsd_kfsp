@@ -76,9 +76,9 @@ Từ nay, mỗi khi có cổ phiếu mới đáp ứng điều kiện, **KFSP s�
 
 ---
 
-## 🧩 Bước 5: Lưu vào Watchlist & Kích Hoạt Tín Hiệu Giao Dịch Tự Động
+## 🧩 Bước 5: Lưu vào Watchlist & Kích Hoạt Tín Hiệu Giao Dịch
 
-Sau khi lọc ra danh sách cổ phiếu tiềm năng, hãy theo dõi chúng bằng Watchlist và bật BOT tín hiệu giao dịch tự động.
+Sau khi lọc ra danh sách cổ phiếu tiềm năng, hãy theo dõi chúng bằng Watchlist và bật BOT tín hiệu mua bán.
 
 ### Phần 1: Thêm Cổ Phiếu Vào Watchlist
 - **Chọn cổ phiếu:** Tích chọn tất cả hoặc từng mã quan tâm.  
