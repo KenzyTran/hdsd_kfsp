@@ -112,6 +112,7 @@ Sau khi lọc ra danh sách cổ phiếu tiềm năng, hãy theo dõi chúng b�
 1. Truy cập [https://kfsp.vn/watchlist](https://kfsp.vn/watchlist).  
 2. Chọn tab **"Quản lý watchlist"**, nhấn biểu tượng **✏️ Sửa**.  
 3. Tích chọn **"Nhận tín hiệu Mua/Bán"**.
+4. Bấm **"Lưu"**.
 
 ![Hình minh họa kích hoạt tín hiệu - Thay đường dẫn tại đây](assets/watchlist-signal.png)
 
