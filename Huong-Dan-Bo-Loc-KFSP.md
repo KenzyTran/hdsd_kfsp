@@ -20,7 +20,10 @@ Truy cập trực tiếp vào đường dẫn: [https://kfsp.vn/bo-loc](https://
 
 ---
 
-## 📊 Bước 2: Tìm Cổ Phiếu Trong Giai Đoạn Tích Lũy
+## 📊 Bước 2: Lựa Chọn Chiến Lược Theo Phong Cách Của Bạn
+Thành công trong đầu tư đến từ việc tuân thủ một phương pháp phù hợp với tính cách và khả năng chấp nhận rủi ro của bạn. Hãy chọn một trong hai chiến lược lọc dưới đây:
+
+### 🅰️ Lựa chọn A: Săn Điểm Mua **TÍCH LŨY** 
 
 Giai đoạn tích lũy là khi giá cổ phiếu đi ngang trong một biên độ hẹp sau một xu hướng giảm. Đây là thời điểm “cá mập” âm thầm thu gom cổ phiếu trước khi bắt đầu một chu kỳ tăng giá mới.
 
@@ -43,7 +46,7 @@ Hệ thống sẽ tự động áp dụng các tiêu chí và hiển thị danh 
 
 ---
 
-## 🚀 Bước 3: Tìm Cổ Phiếu Chuẩn Bị Bứt Phá (Breakout)
+### 🅱️ Lựa chọn B: Đón Sóng **BÙNG NỔ - BREAKOUT**  
 
 Đây là giai đoạn cổ phiếu phá vỡ vùng kháng cự quan trọng sau khi tích lũy, chính thức bước vào xu hướng tăng mạnh.
 
@@ -61,6 +64,24 @@ Hệ thống sẽ tự động áp dụng các tiêu chí và hiển thị danh 
 - **Kết hợp yếu tố cơ bản:** Doanh thu, lợi nhuận tăng trưởng mạnh.
 
 ---
+
+## 🔍 Bước 3: Đánh Giá Chi Tiết Từng Cổ Phiếu
+
+Đây là bước quan trọng nhất để xác thực tiềm năng của cổ phiếu. Bộ lọc chỉ là công cụ sàng lọc ban đầu — quyết định cuối cùng phải đến từ sự phân tích của bạn.
+
+Từ danh sách cổ phiếu đã được lọc ra ở **Bước 2**, hãy nhấn trực tiếp vào từng mã cổ phiếu bạn quan tâm để mở **trang phân tích chi tiết**.
+
+### Phân Tích Kỹ Thuật (TA):
+- **Kiểm tra Biểu Đồ:** Nền giá có thực sự “chặt chẽ”? Mẫu hình (VCP, cốc tay cầm...) có rõ ràng không? Giá có nằm trên các đường MA quan trọng (SMA50, SMA200)?  
+- **Kiểm tra Khối Lượng:** Khối lượng có cạn kiệt trong giai đoạn tích lũy không? Phiên bùng nổ (nếu có) có đi kèm khối lượng tăng đột biến (>40–50% so với trung bình 20 phiên)?  
+
+### Phân Tích Cơ Bản (FA):
+- **Tăng trưởng doanh thu và lợi nhuận:** Các quý gần nhất có dấu hiệu tăng mạnh không?  
+- **Câu chuyện doanh nghiệp:** Có đang hưởng lợi từ bối cảnh vĩ mô hay ngành nghề đang tăng trưởng không?  
+
+📌 *Chỉ những cổ phiếu vượt qua vòng kiểm tra này mới thực sự đáng để bạn theo dõi.*
+
+![Hình minh họa phân tích chi tiết - Thay đường dẫn tại đây](assets/phan-tich-co-phieu.png)
 
 ## 🔔 Bước 4: Không Bỏ Lỡ Cơ Hội – Cài Đặt Thông Báo Tự Động
 
