@@ -15,7 +15,7 @@ Hướng dẫn này sẽ giúp bạn tìm kiếm các cổ phiếu có:
 - **Giá cắt lên các đường trung bình động (MA)** quan trọng - dấu hiệu dòng tiền đang quay lại..  
 - **Mức tăng giá chưa quá “nóng”** so với vùng đáy 6 tháng, cho thấy cổ phiếu vẫn còn dư địa để tăng trưởng.
 
-👉 Đây là “**công thức**” để tìm kiếm các cổ phiếu đang ở **giai đoạn tích lũy chặt chẽ** và **chuẩn bị bứt phá khỏi nền giá**.
+👉 Đây là “công thức nhận diện sớm” những cổ phiếu đang chuyển mình từ tích lũy sang xu hướng tăng — ứng viên tiềm năng cho vị trí dẫn dắt thị trường tiếp theo.
 
 ---
 
