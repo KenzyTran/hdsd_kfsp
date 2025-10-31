@@ -5,13 +5,15 @@
 
 ## 👋 Chào mừng nhà đầu tư!
 
-**Hướng dẫn này** giúp nhà đầu tư sử dụng **công cụ Bộ lọc KFSP** một cách hiệu quả để *"săn"* các cổ phiếu tiềm năng.
+**Bộ lọc KFSP** không chỉ là công cụ tìm cổ phiếu, mà là cách tiếp cận giúp nhà đầu tư **nhận diện sớm những cổ phiếu đang mạnh dần lên trong thị trường** — trước khi chúng thực sự trở thành “ngôi sao dẫn dắt” của chu kỳ tăng mới.
+
+Mục tiêu của bộ lọc này là tìm ra nhóm cổ phiếu đang hình thành sức mạnh, nhưng chưa có nhịp tăng mạnh trước đó, thể hiện dấu hiệu tích lũy chặt chẽ, thanh khoản cải thiện, và dòng tiền bắt đầu quay lại.
 
 Hướng dẫn này sẽ giúp bạn tìm kiếm các cổ phiếu có:  
 
 - **Sức mạnh giá tương đối (RS)** mạnh lên gần đây.  
-- **Giá cắt lên các đường trung bình động (MA)** quan trọng.  
-- **Mức tăng giá chưa quá “nóng”** so với đáy hồi tháng 4 – dấu hiệu của tiềm năng tăng trưởng bền vững.  
+- **Giá cắt lên các đường trung bình động (MA)** quan trọng - dấu hiệu dòng tiền đang quay lại..  
+- **Mức tăng giá chưa quá “nóng”** so với vùng đáy 6 tháng, cho thấy cổ phiếu vẫn còn dư địa để tăng trưởng.
 
 👉 Đây là “**công thức**” để tìm kiếm các cổ phiếu đang ở **giai đoạn tích lũy chặt chẽ** và **chuẩn bị bứt phá khỏi nền giá**.
 
